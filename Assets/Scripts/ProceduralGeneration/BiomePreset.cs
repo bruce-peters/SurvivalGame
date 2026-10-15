@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEditor;
 using UnityEngine.Tilemaps;
 
 [CreateAssetMenu(fileName = "Biome Preset", menuName = "New Biome Preset")]
